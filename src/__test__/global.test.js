@@ -58,9 +58,9 @@ test('Probar async/await', async () => {
 
 
 //Probar antes/despues de cada prueba
-beforeEach(() => console.log('Antes de cada prueba'))
+/* beforeEach(() => console.log('Antes de cada prueba'))
 beforeAll(() => console.log('Antes de todas las prueba'))
 
 afterEach(() => console.log('Después de cada prueba'))
 afterAll(() => console.log('Después de todas las pruebas'))
-
+ */
